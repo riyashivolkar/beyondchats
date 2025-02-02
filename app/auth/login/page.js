@@ -6,7 +6,7 @@ import {
   GoogleAuthProvider,
   signInWithPopup,
 } from "firebase/auth";
-import firebaseConfig from "@/app/utils/firebaseConfig";
+import firebaseConfig from "/app/utils/firebaseConfig";
 import { initializeApp } from "firebase/app";
 
 // Initialize Firebase app
