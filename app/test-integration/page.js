@@ -41,13 +41,13 @@ const Page = () => {
             Congratulations! Your integration was successful. Everything is up
             and running smoothly. Feel free to proceed with the next steps!
           </p>
-          <button className="w-full mr-5 px-4 py-2 md:w-[8rem] bg-gray-500 text-white rounded-md hover:bg-gray-600">
+          <button className="w-full   mb-5 sm:mb-0  mr-5 px-4 py-2 md:w-[8rem] bg-gray-500 text-white rounded-md hover:bg-gray-600">
             Admin{" "}
           </button>
-          <button className="w-full mr-5 px-4 py-2 md:w-[8rem] bg-gray-500 text-white rounded-md hover:bg-gray-600">
+          <button className="w-full mb-5 sm:mb-0    mr-5 px-4 py-2 md:w-[8rem] bg-gray-500 text-white rounded-md hover:bg-gray-600">
             Chatbot{" "}
           </button>
-          <button className="w-full px-4 py-2 md:w-[8rem] bg-gray-500 text-white rounded-md hover:bg-gray-600">
+          <button className="w-full   px-4 py-2 md:w-[8rem] bg-gray-500 text-white rounded-md hover:bg-gray-600">
             Help{" "}
           </button>
         </div>
